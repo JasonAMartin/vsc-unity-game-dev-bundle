@@ -1,0 +1,68 @@
+{
+    "name": "unity-game-dev-bundle",
+    "displayName": "Unity Game Dev Bundle",
+    "description": "Removes the friction of getting started with VSC as a Unity game dev. Get rockin right now with this one extension.",
+    "version": "1.0.0",
+    "publisher": "JasonAMartin",
+    "galleryBanner": {
+        "color": "#333F48",
+        "theme": "dark"
+    },
+    "icon": "images/starterbundle.png",
+    "author": {
+        "name": "Jason A. Martin",
+        "url": "http://www.github.com/jasonamartin"
+    },
+    "keywords": [
+        "visual studio code extension pack",
+        "game dev",
+        "Unity",
+        "visual studio code bundle",
+        "game engine"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JasonAMartin/vsc-unity-game-dev-bundle.git"
+    },
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "alefragnani.Bookmarks",
+        "alefragnani.project-manager",
+        "alexdima.copy-relative-path",
+        "amlovey.shaderlabvscodefree",
+        "coenraads.bracket-pair-colorizer-2",
+        "dimasalmaz.unity3d-pack",
+        "donjayamanne.githistory",
+        "DotJoshJohnson.xml",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "eppz.eppz-code",
+        "esbenp.prettier-vscode",
+        "felipecaputo.git-project-manager",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "Gruntfuggly.todo-tree",
+        "jorgeserrano.vscode-csharp-snippets",
+        "k--kato.docomment",
+        "kisstkondoros.vscode-codemetrics",
+        "kleber-swf.unity-code-snippets",
+        "Leopotam.csharpfixformat",
+        "ms-vscode.csharp",
+        "naumovs.color-highlight",
+        "oderwat.indent-rainbow",
+        "ryu1kn.partial-diff",
+        "slevesque.shader",
+        "Tobiah.unity-tools",
+        "tombonnike.vscode-status-bar-format-toggle",
+        "Tyriar.sort-lines",
+        "Unity.unity-debug",
+        "vscode-icons-team.vscode-icons",
+        "wayou.vscode-todo-highlight",
+        "YclepticStudios.unity-snippets"
+    ]
+}
