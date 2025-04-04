@@ -35,7 +35,6 @@
         "alefragnani.project-manager",
         "alexdima.copy-relative-path",
         "amlovey.shaderlabvscodefree",
-        "coenraads.bracket-pair-colorizer-2",
         "dimasalmaz.unity3d-pack",
         "donjayamanne.githistory",
         "DotJoshJohnson.xml",
@@ -60,7 +59,7 @@
         "Tobiah.unity-tools",
         "tombonnike.vscode-status-bar-format-toggle",
         "Tyriar.sort-lines",
-        "Unity.unity-debug",
+        "VisualStudioToolsForUnity.vstuc",
         "vscode-icons-team.vscode-icons",
         "wayou.vscode-todo-highlight",
         "YclepticStudios.unity-snippets"
